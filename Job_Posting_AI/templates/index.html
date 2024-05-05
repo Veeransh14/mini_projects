@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Generated Website</title>
+</head>
+<body>
+    <div>
+        <h1>AI Generated Content</h1>
+        <p>{{ content }}</p>
+    </div>
+</body>
+</html>
+
+<script>
+    {% comment %} function updateContent() {
+        fetch('/')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content').innerHTML = data;
+        });
+    }
+
+    setInterval(updateContent, 5000); // Update content every 5 seconds
+</script> {% endcomment %}
