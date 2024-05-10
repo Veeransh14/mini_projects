@@ -86,9 +86,8 @@ Boot for backend and MySQL for Database.
 </div>
 <br>
 
-### Contributors
+### Connect with me
 
-* Veeransh Shah
 * - email: shahveeransh@gmail.com
 * - linkedin: https://www.linkedin.com/in/veeransh-shah-577191258/
   
